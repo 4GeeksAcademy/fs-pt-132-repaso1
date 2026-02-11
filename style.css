@@ -1,0 +1,15 @@
+.img-hero{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-qWz2aPJr9Yc%2FU7MV5DHTXvI%2FAAAAAAACPVU%2F26B3_n4fbk4%2Fs1600%2Fview-of-st-angelo-bridge-1920x1200-wallpaper.jpg&f=1&nofb=1&ipt=f4cb292459edbb531b1b53e19e52a373af854e29727b3ed02495a14af6f10ffb);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.glass{
+    /* From https://css.glass */
+background: rgba(255, 255, 255, 0.8);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(1.3px);
+-webkit-backdrop-filter: blur(1.3px);
+}
